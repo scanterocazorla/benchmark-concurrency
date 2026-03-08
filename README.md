@@ -44,7 +44,7 @@ Threads tested:
 ---
 
 ## Speedup Graph
-
+ 
 ![Speedup Graph](speedup.png)
 
 ---
