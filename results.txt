@@ -1,0 +1,16 @@
+Tiempo secuencial: 4.613169
+
+Tiempo paralelo para 2 hilos es: 2.4828189
+Speedup: 1.8580368467470585
+
+Tiempo paralelo para 4 hilos es: 1.4661006
+Speedup: 3.146556927948873
+
+Tiempo paralelo para 8 hilos es: 0.852252
+Speedup: 5.412916602131764
+
+Tiempo paralelo para 16 hilos es: 0.5258278
+Speedup: 8.773155394218412
+
+Tiempo paralelo para 32 hilos es: 0.4222743
+Speedup: 10.924579118359796
