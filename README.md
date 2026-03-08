@@ -1,4 +1,4 @@
-# benchmark-concurrency
+# Java Parallel Speedup Benchmark
 
 This project evaluates the performance improvement obtained by parallelizing
 a CPU-intensive task using Java threads.
@@ -28,6 +28,8 @@ Threads tested:
 
 1, 2, 4, 8, 16, 32
 
+---
+
 ## Results
 
 | Threads | Time (s) | Speedup |
@@ -45,6 +47,7 @@ Threads tested:
 
 ![Speedup Graph](speedup.png)
 
+---
 
 ## Description
 
